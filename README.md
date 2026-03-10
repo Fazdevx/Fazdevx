@@ -92,10 +92,4 @@
 
 ###
 
-<h3 align="left">ᴅᴀʏ ᴛᴏ ᴅᴀʏ</h3>
 
-###
-
-<img src="https://raw.githubusercontent.com/maurodesouzaa/maurodesouzaa/output/snake.svg" alt="Snake animation" />
-
-###
